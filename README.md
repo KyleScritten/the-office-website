@@ -1,4 +1,4 @@
-# The Office Website
+# The Office Website - Dunder Mifflin Inc.
 
 - Responsive The Office Website Design mimicing the fictional Dundermifflin Inc paper company Using HTML CSS And JavaScript
 - Smooth scrolling in each section.
